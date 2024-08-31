@@ -1,7 +1,7 @@
 # ⚛ About Me:
 Hi there! I'm **Mohsin Jawad**, a passionate and self-motivated student at **Punjab College**. I'm an aspiring full-stack web developer currently mastering **React** and planning to dive into **Next.js** soon. My goal is to build innovative web applications and contribute to impactful **open-source projects**.
 
-- 🌱 I have recently finished my internship at **DG SOL** as a **React** front-end developer. It was a wonderful experience. I got to learn a lot! Currently I'm learning new packages like Three.js to level up my React skills.
+- 🌱 I have recently finished my internship at **DG SOL** as a **React** front-end developer. It was a wonderful experience. I got to learn a lot! Currently I'm starting to learn more about **Next.js**
 - Started a small and fun project of making **Chess** clone, [Play it here 🤩](https://core-coder101.github.io/Chess/)
 - 💬 Ask me about **JavaScript, React, Express.js, and Physics :)**
 - 🎹 When I'm not coding, you can find me playing the piano or gaming

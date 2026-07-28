@@ -1,12 +1,11 @@
 # ⚛ About Me:
-Hi there! I'm **Mohsin Jawad**, a passionate and self-motivated student at **Punjab College**. I'm an aspiring full-stack web developer currently mastering **React** and planning to dive into **Next.js** soon. My goal is to build innovative web applications and contribute to impactful **open-source projects**.
-
-- 🌱 I have recently finished my internship at **DG SOL** as a **React** front-end developer. It was a wonderful experience. I got to learn a lot! Currently I'm starting to learn more about **Next.js**
-- Started a small and fun project of making **Chess** clone, [Play it here 🤩](https://core-coder101.github.io/Chess/)
-- 💬 Ask me about **JavaScript, React, Express.js, and Physics :)**
-- 🎹 When I'm not coding, you can find me playing the piano or gaming
+Hi there! I'm **Mohsin Jawad**, a Data Sciences student at **The University of Faisalabad**, exploring the intersection of software development and **AI**.
+- 🌱 Started out as a **React** front-end developer (completed a frontend internship at **DG-SOL**), now pivoting toward **AI/ML** and data science as part of my degree
+- 🎯 Currently building foundations in data science while keeping my full-stack skills (**React, Redux, Express.js, Node.js**) sharp
+- 💡 Built a live multiplayer **Chess.com clone**, [Play it here 🤩](https://core-coder101.github.io/Chess/), and a real-time multi-gas early warning system (Arduino/ESP8266)
+- 💬 Ask me about **JavaScript, React, Physics**, or where web dev meets AI
+- 🎹 Off-screen: playing the piano, gaming, and thinking way too hard about Einstein's thought experiments
 - 📫 How to reach me: [mohsinjawad86@gmail.com](mailto:mohsinjawad86@gmail.com)
-- ⚡ Fun fact: I can talk for hours about Einstein's theories and thought experiments!
 
 [![Codewars Badge](https://www.codewars.com/users/core-coder101/badges/large)](https://www.codewars.com/users/core-coder101)
 
@@ -18,7 +17,6 @@ Hi there! I'm **Mohsin Jawad**, a passionate and self-motivated student at **Pun
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-
 
 ## 📊 GitHub Stats:
 ![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=core-coder101&show_icons=true&theme=radical)
